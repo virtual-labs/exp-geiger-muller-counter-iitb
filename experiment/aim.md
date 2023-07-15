@@ -1,1 +1,3 @@
-### Aim of the experiment
+## Aim
+
+### To determine the Reverberation time of Engineering Physics laboratory.
