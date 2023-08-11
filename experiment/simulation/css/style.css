@@ -1,3 +1,8 @@
+@font-face {
+  font-family: digital;
+  src: url(../fonts/digital-7.ttf);
+}
+
 
 #score {
   background-color: aquamarine;
@@ -41,4 +46,6 @@
   left: -48%;
   /* width: 40%; */
 }
+
+
 
