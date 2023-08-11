@@ -1,0 +1,468 @@
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/activity1.js
+    8:14   warning  'Pannel' is not defined                                no-undef
+   14:10   warning  'start_act1' is defined but never used                 no-unused-vars
+   21:10   warning  'move_to_activity3' is defined but never used          no-unused-vars
+   24:5    warning  'activity4' is not defined                             no-undef
+   33:5    warning  'global_score' is assigned a value but never used      no-unused-vars
+   34:5    warning  'a1_panel' is defined but never used                   no-unused-vars
+   35:5    warning  'all_text_content' is assigned a value but never used  no-unused-vars
+   36:5    warning  'canvas_box_scale' is already defined                  no-redeclare
+   36:5    warning  'canvas_box_scale' is assigned a value but never used  no-unused-vars
+   39:5    warning  'a1_scene' is defined but never used                   no-unused-vars
+   46:5    warning  'display_score' is defined but never used              no-unused-vars
+   47:5    warning  'timer1' is assigned a value but never used            no-unused-vars
+   62:17   warning  'Scene' is not defined                                 no-undef
+   67:27   warning  'bootstrap' is not defined                             no-undef
+  105:18   warning  'Chemistry' is not defined                             no-undef
+  105:42   warning  'counter' is not defined                               no-undef
+  105:55   warning  'Chemistry' is not defined                             no-undef
+  108:9    warning  'sq' is already defined                                no-redeclare
+  108:18   warning  'Chemistry' is not defined                             no-undef
+  108:42   warning  'tube' is not defined                                  no-undef
+  108:52   warning  'Chemistry' is not defined                             no-undef
+  111:9    warning  'sq' is already defined                                no-redeclare
+  111:18   warning  'Chemistry' is not defined                             no-undef
+  111:42   warning  'resistance' is not defined                            no-undef
+  111:58   warning  'Chemistry' is not defined                             no-undef
+  114:9    warning  'sq' is already defined                                no-redeclare
+  114:18   warning  'Chemistry' is not defined                             no-undef
+  114:42   warning  'capacitance' is not defined                           no-undef
+  114:59   warning  'Chemistry' is not defined                             no-undef
+  117:9    warning  'sq' is already defined                                no-redeclare
+  117:18   warning  'Chemistry' is not defined                             no-undef
+  117:42   warning  'hv' is not defined                                    no-undef
+  117:50   warning  'Chemistry' is not defined                             no-undef
+  120:9    warning  'sq' is already defined                                no-redeclare
+  120:18   warning  'Chemistry' is not defined                             no-undef
+  120:42   warning  'anode' is not defined                                 no-undef
+  120:53   warning  'Chemistry' is not defined                             no-undef
+  149:25   warning  'Chemistry' is not defined                             no-undef
+  149:50   warning  'Chemistry' is not defined                             no-undef
+  160:10   warning  'counter' is not defined                               no-undef
+  160:19   warning  'counter' is not defined                               no-undef
+  161:10   warning  'tube' is not defined                                  no-undef
+  161:16   warning  'tube' is not defined                                  no-undef
+  162:10   warning  'resistance' is not defined                            no-undef
+  162:22   warning  'resistance' is not defined                            no-undef
+  163:10   warning  'capacitance' is not defined                           no-undef
+  163:23   warning  'capacitance' is not defined                           no-undef
+  164:10   warning  'hv' is not defined                                    no-undef
+  164:14   warning  'hv' is not defined                                    no-undef
+  165:10   warning  'anode' is not defined                                 no-undef
+  165:17   warning  'anode' is not defined                                 no-undef
+  168:13   warning  'Chemistry' is not defined                             no-undef
+  168:47   warning  'Chemistry' is not defined                             no-undef
+  169:13   warning  'Chemistry' is not defined                             no-undef
+  169:47   warning  'Chemistry' is not defined                             no-undef
+  170:13   warning  'Chemistry' is not defined                             no-undef
+  170:50   warning  'Chemistry' is not defined                             no-undef
+  171:13   warning  'Chemistry' is not defined                             no-undef
+  171:51   warning  'Chemistry' is not defined                             no-undef
+  172:13   warning  'Chemistry' is not defined                             no-undef
+  172:60   warning  'Chemistry' is not defined                             no-undef
+  173:13   warning  'Chemistry' is not defined                             no-undef
+  173:45   warning  'Chemistry' is not defined                             no-undef
+  184:12   warning  Unexpected constant condition                          no-constant-condition
+  206:49   warning  'Chemistry' is not defined                             no-undef
+  209:39   warning  'bootstrap' is not defined                             no-undef
+  241:30   warning  'Chemistry' is not defined                             no-undef
+  241:73   warning  'Chemistry' is not defined                             no-undef
+  269:13   warning  'bsOffcanvas' is already defined                       no-redeclare
+  269:31   warning  'bootstrap' is not defined                             no-undef
+  271:30   warning  'Chemistry' is not defined                             no-undef
+  271:118  warning  'Chemistry' is not defined                             no-undef
+  314:24   warning  'activity4' is not defined                             no-undef
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/activity2.js
+   2:5   warning  'pp' is not defined         no-undef
+   3:5   warning  'pp' is not defined         no-undef
+   4:5   warning  'pp' is not defined         no-undef
+   5:5   warning  'pp' is not defined         no-undef
+   6:5   warning  'pp' is not defined         no-undef
+   7:5   warning  'canvas' is not defined     no-undef
+   7:14  warning  'pp' is not defined         no-undef
+   8:5   warning  'context' is not defined    no-undef
+   8:15  warning  'canvas' is not defined     no-undef
+  10:5   warning  'canvas' is not defined     no-undef
+  11:5   warning  'rect' is not defined       no-undef
+  11:12  warning  'canvas' is not defined     no-undef
+  12:5   warning  'scene' is not defined      no-undef
+  12:17  warning  'Scene' is not defined      no-undef
+  13:20  warning  'Chemistry' is not defined  no-undef
+  13:44  warning  'assembly' is not defined   no-undef
+  13:58  warning  'Chemistry' is not defined  no-undef
+  13:99  warning  'canvas' is not defined     no-undef
+  14:5   warning  'scene' is not defined      no-undef
+  24:5   warning  'scene' is not defined      no-undef
+  28:5   warning  'canvas' is not defined     no-undef
+  29:5   warning  'canvas' is not defined     no-undef
+  29:21  warning  'canvas' is not defined     no-undef
+  30:5   warning  'lscale' is not defined     no-undef
+  30:14  warning  'canvas' is not defined     no-undef
+  31:59  warning  'canvas' is not defined     no-undef
+  34:5   warning  'context' is not defined    no-undef
+  34:26  warning  'canvas' is not defined     no-undef
+  35:5   warning  'context' is not defined    no-undef
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/activity4.js
+    6:5    warning  've' is assigned a value but never used           no-unused-vars
+    7:5    warning  'vs' is assigned a value but never used           no-unused-vars
+    8:5    warning  'cvs' is defined but never used                   no-unused-vars
+    9:5    warning  'cve' is defined but never used                   no-unused-vars
+   10:10   warning  'activity4' is defined but never used             no-unused-vars
+   11:5    warning  'pp' is not defined                               no-undef
+   12:5    warning  'pp' is not defined                               no-undef
+   13:5    warning  'pp' is not defined                               no-undef
+   71:5    warning  'pp' is not defined                               no-undef
+   72:5    warning  'pp' is not defined                               no-undef
+   73:27   warning  'bootstrap' is not defined                        no-undef
+   75:5    warning  'pp' is not defined                               no-undef
+   76:5    warning  'pp' is not defined                               no-undef
+   77:5    warning  'canvas' is not defined                           no-undef
+   77:14   warning  'pp' is not defined                               no-undef
+   78:5    warning  'context' is not defined                          no-undef
+   78:15   warning  'canvas' is not defined                           no-undef
+   80:5    warning  'canvas' is not defined                           no-undef
+   81:5    warning  'rect' is not defined                             no-undef
+   81:12   warning  'canvas' is not defined                           no-undef
+   82:5    warning  'scene' is not defined                            no-undef
+   82:17   warning  'Scene' is not defined                            no-undef
+   83:20   warning  'Chemistry' is not defined                        no-undef
+   83:44   warning  'assembly' is not defined                         no-undef
+   83:58   warning  'Chemistry' is not defined                        no-undef
+   83:96   warning  'canvas' is not defined                           no-undef
+   84:5    warning  'scene' is not defined                            no-undef
+   90:10   warning  'load_start_voltage' is defined but never used    no-unused-vars
+  113:5    warning  'selected_start_voltage' is not defined           no-undef
+  130:27   warning  'bootstrap' is not defined                        no-undef
+  132:5    warning  'pp' is not defined                               no-undef
+  141:9    warning  'main_data_table' is not defined                  no-undef
+  144:10   warning  'generate_table_data' is defined but never used   no-unused-vars
+  146:5    warning  'total_steps' is assigned a value but never used  no-unused-vars
+  149:13   warning  'gm_table' is not defined                         no-undef
+  149:24   warning  'generate_random_values' is not defined           no-undef
+  151:17   warning  'gm_table' is not defined                         no-undef
+  154:17   warning  'fix_for_interval_sixty' is not defined           no-undef
+  154:40   warning  'gm_table' is not defined                         no-undef
+  157:17   warning  'fix_for_interval_hundred' is not defined         no-undef
+  157:42   warning  'gm_table' is not defined                         no-undef
+  161:13   warning  'gm_table' is not defined                         no-undef
+  161:24   warning  'generate_random_values' is not defined           no-undef
+  163:17   warning  'gm_table' is not defined                         no-undef
+  166:17   warning  'fix_for_interval_sixty' is not defined           no-undef
+  166:40   warning  'gm_table' is not defined                         no-undef
+  169:17   warning  'fix_for_interval_hundred' is not defined         no-undef
+  169:42   warning  'gm_table' is not defined                         no-undef
+  173:13   warning  'gm_table' is not defined                         no-undef
+  173:24   warning  'generate_random_values' is not defined           no-undef
+  175:17   warning  'gm_table' is not defined                         no-undef
+  178:17   warning  'fix_for_interval_sixty' is not defined           no-undef
+  178:40   warning  'gm_table' is not defined                         no-undef
+  181:17   warning  'fix_for_interval_hundred' is not defined         no-undef
+  181:42   warning  'gm_table' is not defined                         no-undef
+  185:13   warning  'gm_table' is not defined                         no-undef
+  185:24   warning  'generate_random_values' is not defined           no-undef
+  187:17   warning  'gm_table' is not defined                         no-undef
+  190:17   warning  'fix_for_interval_sixty' is not defined           no-undef
+  190:40   warning  'gm_table' is not defined                         no-undef
+  193:17   warning  'fix_for_interval_hundred' is not defined         no-undef
+  193:42   warning  'gm_table' is not defined                         no-undef
+  198:17   warning  'gm_table' is not defined                         no-undef
+  202:30   warning  'gm_table' is not defined                         no-undef
+  206:5    warning  'pp' is not defined                               no-undef
+  211:25   warning  'main_data_table' is not defined                  no-undef
+  212:21   warning  'main_data_table' is not defined                  no-undef
+  212:44   warning  'selected_start_voltage' is not defined           no-undef
+  213:13   warning  'main_data_table' is not defined                  no-undef
+  213:38   warning  'selected_start_voltage' is not defined           no-undef
+  218:33   warning  'main_data_table' is not defined                  no-undef
+  218:72   warning  'main_data_table' is not defined                  no-undef
+  218:106  warning  'main_data_table' is not defined                  no-undef
+  218:140  warning  'main_data_table' is not defined                  no-undef
+  221:26   warning  'Table' is not defined                            no-undef
+  222:5    warning  'pp' is not defined                               no-undef
+  224:5    warning  'pp' is not defined                               no-undef
+  225:5    warning  'pp' is not defined                               no-undef
+  231:5    warning  'scene' is not defined                            no-undef
+  235:5    warning  'canvas' is not defined                           no-undef
+  236:5    warning  'canvas' is not defined                           no-undef
+  236:21   warning  'canvas' is not defined                           no-undef
+  237:5    warning  'lscale' is not defined                           no-undef
+  237:14   warning  'canvas' is not defined                           no-undef
+  238:59   warning  'canvas' is not defined                           no-undef
+  241:5    warning  'context' is not defined                          no-undef
+  241:26   warning  'canvas' is not defined                           no-undef
+  242:5    warning  'context' is not defined                          no-undef
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/activity5.js
+   4:5   warning  'data1' is assigned a value but never used  no-unused-vars
+   5:10  warning  'draw_chart' is defined but never used      no-unused-vars
+   7:5   warning  'pp' is not defined                         no-undef
+   8:5   warning  'pp' is not defined                         no-undef
+  12:25  warning  'main_data_table' is not defined            no-undef
+  13:20  warning  'main_data_table' is not defined            no-undef
+  14:19  warning  'main_data_table' is not defined            no-undef
+  29:21  warning  'Chart' is not defined                      no-undef
+  88:5   warning  'pp' is not defined                         no-undef
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/activity6.js
+   26:11  warning  'T' is not defined                             no-undef
+   27:11  warning  'X' is not defined                             no-undef
+   46:5   warning  'pp' is not defined                            no-undef
+   47:5   warning  'pp' is not defined                            no-undef
+   54:5   warning  'pp' is not defined                            no-undef
+   55:5   warning  'pp' is not defined                            no-undef
+   56:5   warning  'pp' is not defined                            no-undef
+   58:5   warning  'pp' is not defined                            no-undef
+   59:5   warning  'pp' is not defined                            no-undef
+   62:10  warning  'complete_tab1' is defined but never used      no-unused-vars
+   67:5   warning  'pp' is not defined                            no-undef
+   69:25  warning  'T' is not defined                             no-undef
+   87:15  warning  'T' is not defined                             no-undef
+   88:15  warning  'X' is not defined                             no-undef
+   89:15  warning  'X1' is not defined                            no-undef
+   90:15  warning  'X2' is not defined                            no-undef
+   97:25  warning  'Y' is not defined                             no-undef
+   98:18  warning  'Y' is not defined                             no-undef
+   99:19  warning  'X1' is not defined                            no-undef
+  100:19  warning  'X2' is not defined                            no-undef
+  132:5   warning  'pp' is not defined                            no-undef
+  133:5   warning  'pp' is not defined                            no-undef
+  135:10  warning  'act6_verify_tab1' is defined but never used   no-unused-vars
+  139:10  warning  'verify_values' is not defined                 no-undef
+  139:48  warning  'Y' is not defined                             no-undef
+  143:10  warning  'verify_values' is not defined                 no-undef
+  143:48  warning  'X1' is not defined                            no-undef
+  147:10  warning  'verify_values' is not defined                 no-undef
+  147:48  warning  'X2' is not defined                            no-undef
+  152:5   warning  'pp' is not defined                            no-undef
+  153:5   warning  'pp' is not defined                            no-undef
+  156:10  warning  'verify_summations' is defined but never used  no-unused-vars
+  162:10  warning  'verify_values' is not defined                 no-undef
+  166:10  warning  'verify_values' is not defined                 no-undef
+  170:10  warning  'verify_values' is not defined                 no-undef
+  184:15  warning  'regression_linear_2variable' is not defined   no-undef
+  184:43  warning  'X1' is not defined                            no-undef
+  184:47  warning  'X2' is not defined                            no-undef
+  184:51  warning  'Y' is not defined                             no-undef
+  196:5   warning  'pp' is not defined                            no-undef
+  197:5   warning  'pp' is not defined                            no-undef
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/activity7.js
+   1:10  warning  'activity7' is defined but never used       no-unused-vars
+   3:25  warning  'main_data_table' is not defined            no-undef
+   4:13  warning  'main_data_table' is not defined            no-undef
+   4:38  warning  'vs' is not defined                         no-undef
+   5:13  warning  'cvs' is not defined                        no-undef
+   5:19  warning  'main_data_table' is not defined            no-undef
+   7:13  warning  'main_data_table' is not defined            no-undef
+   7:38  warning  've' is not defined                         no-undef
+   8:13  warning  'cve' is not defined                        no-undef
+   8:19  warning  'main_data_table' is not defined            no-undef
+  63:5   warning  'pp' is not defined                         no-undef
+  64:25  warning  'cve' is not defined                        no-undef
+  64:31  warning  'cvs' is not defined                        no-undef
+  64:39  warning  've' is not defined                         no-undef
+  64:44  warning  'vs' is not defined                         no-undef
+  65:17  warning  'vs' is not defined                         no-undef
+  65:21  warning  've' is not defined                         no-undef
+  65:26  warning  'vs' is not defined                         no-undef
+  65:31  warning  've' is not defined                         no-undef
+  65:40  warning  'cvs' is not defined                        no-undef
+  65:45  warning  'cve' is not defined                        no-undef
+  68:10  warning  'verify_act7_tb' is defined but never used  no-unused-vars
+  77:10  warning  'verify_values' is not defined              no-undef
+  77:48  warning  'vs' is not defined                         no-undef
+  81:10  warning  'verify_values' is not defined              no-undef
+  81:48  warning  've' is not defined                         no-undef
+  85:10  warning  'verify_values' is not defined              no-undef
+  85:49  warning  'vs' is not defined                         no-undef
+  85:54  warning  've' is not defined                         no-undef
+  89:10  warning  'verify_values' is not defined              no-undef
+  89:48  warning  'cvs' is not defined                        no-undef
+  93:10  warning  'verify_values' is not defined              no-undef
+  93:48  warning  'cve' is not defined                        no-undef
+  97:10  warning  'verify_values' is not defined              no-undef
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/common.js
+    1:10  warning  'verify_values' is defined but never used             no-unused-vars
+   18:10  warning  'std_deviation' is defined but never used             no-unused-vars
+   23:10  warning  'regression_linear' is defined but never used         no-unused-vars
+   40:10  warning  'ascending_random_array' is defined but never used    no-unused-vars
+   42:12  warning  Unexpected constant condition                         no-constant-condition
+  135:10  warning  'show_panel' is defined but never used                no-unused-vars
+  137:31  warning  'bootstrap' is not defined                            no-undef
+  144:10  warning  'hide_panel' is defined but never used                no-unused-vars
+  183:10  warning  'generate_random_values' is defined but never used    no-unused-vars
+  196:10  warning  'fix_for_interval_sixty' is defined but never used    no-unused-vars
+  206:10  warning  'fix_for_interval_hundred' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/data.js
+  1:5  warning  'selected_start_voltage' is assigned a value but never used  no-unused-vars
+  2:5  warning  'gm_table' is assigned a value but never used                no-unused-vars
+  3:5  warning  'main_data_table' is assigned a value but never used         no-unused-vars
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/dummy.js
+  2:14  warning  'Pannel' is not defined  no-undef
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/geomerty.js
+   33:49   warning  'lscale' is not defined          no-undef
+   34:49   warning  'lscale' is not defined          no-undef
+   46:23   warning  'pt1' is defined but never used  no-unused-vars
+   46:28   warning  'pt2' is defined but never used  no-unused-vars
+   46:33   warning  'pt3' is defined but never used  no-unused-vars
+   50:24   warning  'geo' is defined but never used  no-unused-vars
+   69:44   warning  'lscale' is not defined          no-undef
+   69:66   warning  'lscale' is not defined          no-undef
+   69:88   warning  'lscale' is not defined          no-undef
+   82:48   warning  'lscale' is not defined          no-undef
+   83:48   warning  'lscale' is not defined          no-undef
+  108:47   warning  'lscale' is not defined          no-undef
+  108:69   warning  'lscale' is not defined          no-undef
+  109:60   warning  'lscale' is not defined          no-undef
+  109:95   warning  'lscale' is not defined          no-undef
+  131:39   warning  'lscale' is not defined          no-undef
+  131:57   warning  'lscale' is not defined          no-undef
+  132:39   warning  'lscale' is not defined          no-undef
+  132:57   warning  'lscale' is not defined          no-undef
+  181:39   warning  'lscale' is not defined          no-undef
+  181:57   warning  'lscale' is not defined          no-undef
+  182:39   warning  'lscale' is not defined          no-undef
+  182:57   warning  'lscale' is not defined          no-undef
+  225:33   warning  'lscale' is not defined          no-undef
+  226:33   warning  'lscale' is not defined          no-undef
+  274:50   warning  'lscale' is not defined          no-undef
+  274:72   warning  'lscale' is not defined          no-undef
+  279:61   warning  'lscale' is not defined          no-undef
+  279:84   warning  'lscale' is not defined          no-undef
+  279:102  warning  'lscale' is not defined          no-undef
+  279:120  warning  'lscale' is not defined          no-undef
+  293:33   warning  'lscale' is not defined          no-undef
+  294:33   warning  'lscale' is not defined          no-undef
+  295:41   warning  'lscale' is not defined          no-undef
+  295:64   warning  'lscale' is not defined          no-undef
+  295:98   warning  'lscale' is not defined          no-undef
+  295:121  warning  'lscale' is not defined          no-undef
+  296:45   warning  'lscale' is not defined          no-undef
+  296:68   warning  'lscale' is not defined          no-undef
+  296:102  warning  'lscale' is not defined          no-undef
+  296:125  warning  'lscale' is not defined          no-undef
+  323:61   warning  'lscale' is not defined          no-undef
+  323:90   warning  'lscale' is not defined          no-undef
+  324:61   warning  'lscale' is not defined          no-undef
+  324:96   warning  'lscale' is not defined          no-undef
+  325:66   warning  'lscale' is not defined          no-undef
+  325:101  warning  'lscale' is not defined          no-undef
+  326:66   warning  'lscale' is not defined          no-undef
+  326:100  warning  'lscale' is not defined          no-undef
+  327:67   warning  'lscale' is not defined          no-undef
+  327:101  warning  'lscale' is not defined          no-undef
+  328:67   warning  'lscale' is not defined          no-undef
+  328:96   warning  'lscale' is not defined          no-undef
+  329:61   warning  'lscale' is not defined          no-undef
+  329:90   warning  'lscale' is not defined          no-undef
+  346:33   warning  'lscale' is not defined          no-undef
+  347:33   warning  'lscale' is not defined          no-undef
+  376:46   warning  'lscale' is not defined          no-undef
+  382:50   warning  'lscale' is not defined          no-undef
+  382:72   warning  'lscale' is not defined          no-undef
+  411:52   warning  'lscale' is not defined          no-undef
+  411:79   warning  'lscale' is not defined          no-undef
+  413:56   warning  'lscale' is not defined          no-undef
+  413:83   warning  'lscale' is not defined          no-undef
+  450:50   warning  'lscale' is not defined          no-undef
+  450:72   warning  'lscale' is not defined          no-undef
+  456:61   warning  'lscale' is not defined          no-undef
+  456:84   warning  'lscale' is not defined          no-undef
+  456:102  warning  'lscale' is not defined          no-undef
+  456:120  warning  'lscale' is not defined          no-undef
+  470:33   warning  'lscale' is not defined          no-undef
+  471:33   warning  'lscale' is not defined          no-undef
+  472:41   warning  'lscale' is not defined          no-undef
+  472:64   warning  'lscale' is not defined          no-undef
+  472:98   warning  'lscale' is not defined          no-undef
+  472:121  warning  'lscale' is not defined          no-undef
+  473:45   warning  'lscale' is not defined          no-undef
+  473:68   warning  'lscale' is not defined          no-undef
+  473:102  warning  'lscale' is not defined          no-undef
+  473:125  warning  'lscale' is not defined          no-undef
+  502:50   warning  'lscale' is not defined          no-undef
+  502:72   warning  'lscale' is not defined          no-undef
+  507:139  warning  'lscale' is not defined          no-undef
+  507:172  warning  'lscale' is not defined          no-undef
+  507:205  warning  'lscale' is not defined          no-undef
+  507:225  warning  'lscale' is not defined          no-undef
+  528:50   warning  'lscale' is not defined          no-undef
+  528:72   warning  'lscale' is not defined          no-undef
+  533:139  warning  'lscale' is not defined          no-undef
+  533:172  warning  'lscale' is not defined          no-undef
+  533:205  warning  'lscale' is not defined          no-undef
+  533:225  warning  'lscale' is not defined          no-undef
+  555:50   warning  'lscale' is not defined          no-undef
+  555:72   warning  'lscale' is not defined          no-undef
+  560:133  warning  'lscale' is not defined          no-undef
+  560:172  warning  'lscale' is not defined          no-undef
+  560:205  warning  'lscale' is not defined          no-undef
+  560:224  warning  'lscale' is not defined          no-undef
+  584:39   warning  'lscale' is not defined          no-undef
+  584:53   warning  'lscale' is not defined          no-undef
+  585:39   warning  'lscale' is not defined          no-undef
+  585:53   warning  'lscale' is not defined          no-undef
+  586:39   warning  'lscale' is not defined          no-undef
+  586:53   warning  'lscale' is not defined          no-undef
+  587:39   warning  'lscale' is not defined          no-undef
+  587:53   warning  'lscale' is not defined          no-undef
+  594:36   warning  'lscale' is not defined          no-undef
+  594:50   warning  'lscale' is not defined          no-undef
+  594:63   warning  'lscale' is not defined          no-undef
+  605:36   warning  'lscale' is not defined          no-undef
+  605:50   warning  'lscale' is not defined          no-undef
+  605:63   warning  'lscale' is not defined          no-undef
+  632:46   warning  'lscale' is not defined          no-undef
+  637:50   warning  'lscale' is not defined          no-undef
+  637:72   warning  'lscale' is not defined          no-undef
+  659:50   warning  'lscale' is not defined          no-undef
+  659:72   warning  'lscale' is not defined          no-undef
+  663:46   warning  'lscale' is not defined          no-undef
+  664:46   warning  'lscale' is not defined          no-undef
+  664:67   warning  'lscale' is not defined          no-undef
+  665:49   warning  'lscale' is not defined          no-undef
+  702:50   warning  'lscale' is not defined          no-undef
+  702:72   warning  'lscale' is not defined          no-undef
+  718:38   warning  'lscale' is not defined          no-undef
+  718:51   warning  'lscale' is not defined          no-undef
+  720:38   warning  'lscale' is not defined          no-undef
+  722:38   warning  'lscale' is not defined          no-undef
+  722:52   warning  'lscale' is not defined          no-undef
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/pannel.js
+   8:7  warning  'Pannel' is defined but never used  no-unused-vars
+  76:7  warning  'Table' is defined but never used   no-unused-vars
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/scene.js
+   1:7    warning  'Scene' is defined but never used         no-unused-vars
+  11:9    warning  'context' is not defined                  no-undef
+  11:33   warning  'canvas' is not defined                   no-undef
+  11:47   warning  'canvas' is not defined                   no-undef
+  27:5    warning  'context' is not defined                  no-undef
+  28:9    warning  'grd' is assigned a value but never used  no-unused-vars
+  28:15   warning  'context' is not defined                  no-undef
+  28:44   warning  'canvas' is not defined                   no-undef
+  28:62   warning  'canvas' is not defined                   no-undef
+  28:84   warning  'canvas' is not defined                   no-undef
+  28:102  warning  'canvas' is not defined                   no-undef
+  28:121  warning  'canvas' is not defined                   no-undef
+  36:5    warning  'context' is not defined                  no-undef
+  37:5    warning  'context' is not defined                  no-undef
+  37:28   warning  'canvas' is not defined                   no-undef
+  37:42   warning  'canvas' is not defined                   no-undef
+  38:5    warning  'context' is not defined                  no-undef
+  39:5    warning  'context' is not defined                  no-undef
+
+/home/runner/work/exp-geiger-muller-counter-iitb/exp-geiger-muller-counter-iitb/experiment/simulation/js/test.js
+  2:14  warning  'Pannel' is not defined                     no-undef
+  4:5   warning  'table' is assigned a value but never used  no-unused-vars
+
+✖ 439 problems (0 errors, 439 warnings)
+
