@@ -106,7 +106,7 @@ function a1_draw_all_components() {
     sq.name = "counter";
     scene.add(sq);
     var sq = new Chemistry.Custome_image(tube, new Chemistry.Point(1450, 170), 643, 199, canvas);
-    sq.name = "tube";
+    sq.name = "GM tube";
     scene.add(sq);
     var sq = new Chemistry.Custome_image(resistance, new Chemistry.Point(1700, 600), 57, 231, canvas);
     sq.name = "resistance";
@@ -115,7 +115,7 @@ function a1_draw_all_components() {
     sq.name = "capacitance";
     scene.add(sq);
     var sq = new Chemistry.Custome_image(hv, new Chemistry.Point(150, 220), 194, 85, canvas);
-    sq.name = "hv";
+    sq.name = "hight voltage source";
     scene.add(sq);
     var sq = new Chemistry.Custome_image(anode, new Chemistry.Point(600, 580), 579, 52, canvas);
     sq.name = "anode";
@@ -126,10 +126,10 @@ function a1_load_questions() { }
 {
     question = [];
     question.push({ srno: 1, question: "Select <span style='color: #018fc3'>Electronic Counter</span>", ans: "counter", hint: ["Has Suction and Discharge", "Has valve attached", "Triangular Base"] });
-    question.push({ srno: 2, question: "Select <span style='color: #018fc3'> tube </span>", ans: "tube", hint: ["Rectangular", "Mounted Vertically", "Has valves attached"] });
+    question.push({ srno: 2, question: "Select <span style='color: #018fc3'> GM tube </span>", ans: "GM tube", hint: ["Rectangular", "Mounted Vertically", "Has valves attached"] });
     question.push({ srno: 3, question: "Select <span style='color: #018fc3'> Resistance </span>", ans: "resistance", hint: ["Rectangular", "Mounted Vertically", "Has valves attached"] });
     question.push({ srno: 4, question: "Select <span style='color: #018fc3'> Capacitance </span>", ans: "capacitance", hint: ["Double Pipe", "pipe inside a pipe", "Has two inlets and outlets"] });
-    question.push({ srno: 5, question: "Select <span style='color: #018fc3'> High Voltage Source </span>", ans: "hv", hint: ["U-Shape", "Mounted horizontally", "Has two pins"] });
+    question.push({ srno: 5, question: "Select <span style='color: #018fc3'> High Voltage Source </span>", ans: "hight voltage source", hint: ["U-Shape", "Mounted horizontally", "Has two pins"] });
     question.push({ srno: 6, question: "Select <span style='color: #018fc3'> Anode </span>", ans: "anode", hint: ["Rectangular box with sensor", "Display SET T", "Has two wires protruding down"] });
 }
 function a1_display_current_question() {
@@ -165,13 +165,19 @@ function load_higlighted_images() {
         [anode, anode]
     ];
     a1_labels = [
-        new Chemistry.Text("counter", new Chemistry.Point(400, 80), canvas),
-        new Chemistry.Text("tube", new Chemistry.Point(1300, 1700), canvas),
-        new Chemistry.Text("resistance", new Chemistry.Point(1050, 730), canvas),
-        new Chemistry.Text("capacitance", new Chemistry.Point(200, 850), canvas),
-        new Chemistry.Text("hv", new Chemistry.Point(100, 40), canvas),
-        new Chemistry.Text("anode", new Chemistry.Point(80, 500), canvas)
+        new Chemistry.Geo_Text("counter", new Chemistry.Point(500, 50), canvas),
+        new Chemistry.Geo_Text("GM tube", new Chemistry.Point(1450, 170), canvas),
+        new Chemistry.Geo_Text("resistance", new Chemistry.Point(1700, 730), canvas),
+        new Chemistry.Geo_Text("capacitance", new Chemistry.Point(100, 850), canvas),
+        new Chemistry.Geo_Text("hight voltage source", new Chemistry.Point(100, 100), canvas),
+        new Chemistry.Geo_Text("anode", new Chemistry.Point(500, 500), canvas)
     ];
+    a1_labels[0].font = '30%';
+    a1_labels[1].font = '30%';
+    a1_labels[2].font = '30%';
+    a1_labels[3].font = '30%';
+    a1_labels[4].font = '30%';
+    a1_labels[5].font = '30%';
 }
 function a1_random_questions() {
     arrayofrandquestion = [];

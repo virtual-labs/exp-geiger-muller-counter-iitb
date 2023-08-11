@@ -13,21 +13,21 @@ function activity7() {
     <div>
 
     <div>
-        <label for="">Enter vs value</label>
+        <label for="">Enter Vs value</label>
         <input class="form-control" type="text" name="" id="vs-inp">
     </div>
 
     <br>
 
     <div>
-        <label for="">Enter ve value</label>
+        <label for="">Enter Ve value</label>
         <input class="form-control" type="text" name="" id="ve-inp">
     </div>
 
     <br>
 
     <div>
-        <label for="">Enter Optimum operating voltage => (vs + ve) / 2</label>
+        <label for="">Enter Optimum operating voltage => (Vs + Ve) / 2</label>
         <input class="form-control" type="text" name="" id="op-inp">
     </div>
 

@@ -11,4 +11,7 @@ var hv = new Image();
 hv.src = `./images/webp/Highvoltage.webp`;
 var anode = new Image();
 anode.src = `./images/webp/Anode.webp`;
+// assembly image
+var assembly = new Image();
+assembly.src = `./images/webp/AssemblyL6E4.webp`;
 //# sourceMappingURL=loaded_images.js.map
