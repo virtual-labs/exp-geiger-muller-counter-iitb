@@ -1,6 +1,6 @@
 //all images
 var counter = new Image();
-counter.src = `./images/webp/ElectronicCounter.webp`;
+counter.src = `./images/webp/ElectronicCounter02.webp`;
 var tube = new Image();
 tube.src = `./images/webp/CathodeGMtube.webp`;
 var resistance = new Image();
@@ -13,5 +13,5 @@ var anode = new Image();
 anode.src = `./images/webp/Anode.webp`;
 // assembly image
 var assembly = new Image();
-assembly.src = `./images/webp/AssemblyL6E4.webp`;
+assembly.src = `./images/webp/Setup2.webp`;
 //# sourceMappingURL=loaded_images.js.map

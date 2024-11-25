@@ -38,23 +38,7 @@ function draw_chart() {
                     borderColor: 'blue',
                     tension: 0.5,
                     showLine: true,
-                    // yAxisID: 'A',
-                    // borderWidth: 1,
-                    // borderColor: "green",
-                    // backgroundColor: "rgba(34, 139, 34, 0.5)",
                 },
-                // {
-                //     label: 'Best Fit ln(X) = A + B/T + C x ln(T)',
-                //     data: data1,
-                //     fill: false,
-                //     borderColor: 'red',
-                //     tension: 0.5,
-                //     showLine: true
-                //     // yAxisID: 'A',
-                //     // borderWidth: 1,
-                //     // borderColor: "red",
-                //     // backgroundColor: "rgba(255, 0, 0, 0.5)",
-                // },
             ]
         },
         options: {
