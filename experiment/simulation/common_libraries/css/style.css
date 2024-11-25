@@ -1,0 +1,109 @@
+.center-text {
+  text-align: center;
+}
+
+.fs-08vw {
+  font-size: 0.8vw;
+}
+
+.fs-1vw {
+  font-size: 1vw;
+}
+
+.fs-15vw {
+  font-size: 1.6vw;
+}
+
+.fs-2vw {
+  font-size: 2vw;
+}
+
+
+.fs-25vw {
+  font-size: 2.5vw;
+}
+
+.fs-3vw {
+  font-size: 3vw;
+}
+
+.fs-14px {
+  font-size: 14px;
+}
+
+.fs-15px {
+  font-size: 15px;
+}
+
+.fs-16px {
+  font-size: 16px;
+}
+
+.fs-17px {
+  font-size: 17px;
+}
+
+.fs-18px {
+  font-size: 18px;
+}
+
+.fs-20px {
+  font-size: 20px;
+}
+
+.fs-22px {
+  font-size: 22px;
+}
+
+.fs-24px {
+  font-size: 24px;
+}
+
+
+.fs-28px {
+  font-size: 28px;
+}
+
+
+.fs-32px {
+  font-size: 32px;
+}
+
+.std-btn {
+  width: 20vw;
+  font-size: 16px;
+  color: white;
+}
+
+.fb-500 {
+  font-weight: 500;
+}
+
+.fb-600 {
+  font-weight: 600;
+}
+
+.fb-700 {
+  font-weight: 700;
+}
+
+
+.fb-800 {
+  font-weight: 800;
+}
+
+
+.divide {
+  width: 90%;
+  margin: auto;
+  background-color: rgb(213, 224, 242);
+  box-shadow: 0 3px 10px 3px grey;
+  margin-top: 2vw;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  padding: 2vw;
+}
+
+.d-inline-flex {
+  margin-left: 5% !important;
+}

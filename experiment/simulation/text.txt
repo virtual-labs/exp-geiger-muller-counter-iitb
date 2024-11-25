@@ -1,0 +1,14 @@
+methods for table
+
+
+1. build_table(n: number of columns, array_of_all_data: number[number[]], index_of_inputs: number[], number_of_input_rows: number);
+2. verify_inputs(array_of_all_data: number[number[]]);
+3. load_full_table();
+4. remove_ckeck_column();
+5. add_verify_button_at_last(nth_row: number);
+
+
+table = new build_table();
+
+
+
