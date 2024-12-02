@@ -1,3 +1,3 @@
-## Aim
 
-### To determine the Reverberation time of Engineering Physics laboratory.
+
+<h2>To determine the optimum operating voltage and dead time of Geiger Muller tube</h2>
