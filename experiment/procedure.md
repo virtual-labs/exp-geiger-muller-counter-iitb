@@ -38,7 +38,7 @@
 
 <h3> Observation Table </h3>
 
-<table style='border: 1px solid black;'>
+<table border='1'; style='border: 1px solid black;'>
     <tr>
         <th>Object</th>
         <th>Surface Area</th>
@@ -99,7 +99,7 @@
 <br><br>
 
 
-<table style='border: 1px solid black;'>
+<table border='1' style='border: 1px solid black;'>
     <tr>
         <th>Sr No.</th>
         <th>Particular</th>
