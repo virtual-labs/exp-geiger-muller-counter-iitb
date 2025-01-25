@@ -28,13 +28,13 @@
 
 <li> 3. Total absorption <br>
 
-<img src='./images/total_absorption_formula.png' style='width: 80%; margin: auto;' /> </li>
+<img src='./images/total_absorption_formula.png' style='width: 200px; margin: auto;' /> </li>
 
 </ol>
 
 <h3> Calculations </h3>
 
-<img src='./images/calculations.png' style='width: 80%; margin: auto;' />
+<img src='./images/calculations.png' style='width: 200px; margin: auto;' />
 
 <h3> Observation Table </h3>
 

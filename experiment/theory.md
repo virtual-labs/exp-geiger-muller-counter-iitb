@@ -8,7 +8,7 @@
 
 <h3> Sabine’s formula </h3>
 
-<img src='./images/formula.png' style='width: 80%; margin: auto;' />
+<img src='./images/formula.png' style='width: 200px; margin: auto;' />
 
 <h3> Theory </h3>
 
