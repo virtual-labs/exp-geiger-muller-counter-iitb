@@ -1,0 +1,52 @@
+[
+    {
+       
+        "question": "Geiger Muller counter can detect",
+        "qid": 1,
+        "option_a": "Beta rays",
+        "option_b": "X-rays",
+        "option_c": "Gamma rays",
+        "option_d": "All of the options provided",
+        "correct_option": "d"
+    },
+    {
+        
+        "question": "Out of the following which detector works on the principle: the nuclear radiations passing through the gas produces ionization?",
+        "qid": 2,
+        "option_a": "Scintillation counter",
+        "option_b": "Flow counter",
+        "option_c": "Geiger-Muller counters",
+        "option_d": "Proportional counter",
+        "correct_option": "c"
+    },
+    {
+       
+        "question": "Which of the following is not a type of radiation detectors?",
+        "qid": 3,
+        "option_a": "Hall probe detector",
+        "option_b": "Proportional counter",
+        "option_c": "Semiconductor detector",
+        "option_d": "Geiger-Muller counters",
+        "correct_option": "a"
+    },
+    {
+        
+        "question": "In a Geiger-Muller counter tube which one of the following is correct?",
+        "qid": 4,
+        "option_a": "Central thin wire is cathode and cylindrical tube is anode",
+        "option_b": "Central thin wire is anode and cylindrical tube is cathode",
+        "option_c": "Both are positive electrodes",
+        "option_d": " None of them are anode",
+        "correct_option": "b"
+    },
+    {
+        
+        "question": "For ionization and quenching respectively, The Geiger-Muller counter uses",
+        "qid": 5,
+        "option_a": "Alcohol only",
+        "option_b": "Argon and alcohol",
+        "option_c": "Argon only",
+        "option_d": "Bromine only",
+        "correct_option": "b"
+    }
+]

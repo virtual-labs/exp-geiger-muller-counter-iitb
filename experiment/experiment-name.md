@@ -1,1 +1,1 @@
-## Experiment name
+## Geiger Muller counter: To determine the optimum operating voltage and dead time of Geiger Muller tube

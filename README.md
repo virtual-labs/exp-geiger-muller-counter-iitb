@@ -1,20 +1,20 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Chemical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Engineering Physics
+<b> Experiment|     <b> Geiger Muller counter: To determine the optimum operating voltage and dead time of Geiger Muller tube
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. Santosh Noronha 
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b>  IIT Bombay
 <b> Email id|     <b>  
-<b> Department |  
+<b> Department |  Chemical Engineering
 
 ### Contributors List
 
