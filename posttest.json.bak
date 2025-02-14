@@ -1,0 +1,50 @@
+[
+    {
+        
+        "question": "Will a Geiger-Muller counter count radioactive events when there is no radioactive source nearby?",
+        "qid": 1,
+        "option_a": "No, because radioactive rays do not travel very far.",
+        "option_b": "Yes, because there are radioactive rays emitted from the desk and human body all the time.",
+        "option_c": "Yes, because there are background radiation from space passing through the counter all the time.",
+        "option_d": "No, because it is not used for counting radioactive events",
+        "correct_option": "c"
+    },
+    {
+        
+        "question": "In an experiment Geiger-Muller counter shows background radiation reading on the counter as 32 counts per minute, when source of beta radiation put in front of the same Geiger-Muller tube the reading on the counter tube is now 560 counts per minute, predict how much radiation is coming from the source of beta radiation ",
+        "qid": 2,
+        "option_a": "528",
+        "option_b": "592",
+        "option_c": "560",
+        "option_d": "28",
+        "correct_option": "a"
+    },
+    {
+        
+        "question": "Select the one from the following that is not a disadvantage of Geiger-Muller counter",
+        "qid": 3,
+        "option_a": "Do not measure true dose",
+        "option_b": "Typically have a large dead time and recovery time",
+        "option_c": "Can detect background radiation",
+        "option_d": "Cannot discriminate types of radiation",
+        "correct_option": "c"
+    },
+    {
+        "question": "The term that defines time from the initial full size countable pulse to the next full size countable pulse produced by the detector is called as",
+        "qid": 4,
+        "option_a": "Recovery time",
+        "option_b": "Dead time",
+        "option_c": "Resolving time",
+        "option_d": "Detector efficiency",
+        "correct_option": "a"
+    },
+    {
+        "question": "The term that defines time from the initial pulse until the detector can produce another pulse is called as",
+        "qid": 5,
+        "option_a": "Recovery time",
+        "option_b": "Resolving time",
+        "option_c": "Dead time",
+        "option_d": "Detector efficiency",
+        "correct_option": "c"
+    }
+]
