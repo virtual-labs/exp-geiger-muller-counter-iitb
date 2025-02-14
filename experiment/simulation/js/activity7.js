@@ -75,27 +75,27 @@ function verify_act7_tb() {
     console.log(parseFloat(val1.value));
     // console.log(Q.value, To.value, Ti.value, ti.value, to.value);
     if (!verify_values(parseFloat(val1.value), vs)) {
-        console.log("please correct the vs value");
+        alert("please correct the vs value");
         return;
     }
     if (!verify_values(parseFloat(val2.value), ve)) {
-        console.log("please correct the ve value");
+        alert("please correct the ve value");
         return;
     }
     if (!verify_values(parseFloat(val3.value), (vs + ve) / 2)) {
-        console.log("please correct the optimum operating voltage value");
+        alert("please correct the optimum operating voltage value");
         return;
     }
     if (!verify_values(parseFloat(val4.value), cvs)) {
-        console.log("please correct the cvs value");
+        alert("please correct the cvs value");
         return;
     }
     if (!verify_values(parseFloat(val5.value), cve)) {
-        console.log("please correct the cve value");
+        alert("please correct the cve value");
         return;
     }
     if (!verify_values(Math.abs(parseFloat(val6.value)), Math.abs(calculated_slope))) {
-        console.log("please correct the slope value");
+        alert("please correct the slope value");
         return;
     }
     // pp.addtorightpannel(act5_ob_btn, 3);
